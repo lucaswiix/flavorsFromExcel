@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    
+    <script
+  src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI="
+  crossorigin="anonymous"></script>
+  <script src="moment.js"></script>
+    <script src="calculate.js"></script>
+</head>
+
+<body>
+    <table class="bx--data-table-v2 flavor-table bx--data-table-v2--zebra">
+        <thead class="flavor-table__head">
+            <tr>
+                <th class="flavor-table__input-column" scope="col"></th>
+                <th scope="col">Nome</th>
+                <th scope="col">vCPU</th>
+                <th scope="col">RAM</th>
+                <th scope="col">Preço</th>
+            </tr>
+        </thead>
+        <tbody >
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.1x2" id="B1.1x2" type="radio"
+                            class="bx--radio-button" value="B1.1x2"><label for="B1.1x2"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.1x2</td>
+                <td>1</td>
+                <td>2 GB</td>
+                <td>US$&nbsp;0,052</td>
+            </tr>
+
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.1x4" id="B1.1x4" type="radio"
+                            class="bx--radio-button" value="B1.1x4"><label for="B1.1x4"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.1x4</td>
+                <td>1</td>
+                <td>4 GB</td>
+                <td>US$&nbsp;0,063</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.2x4" id="B1.2x4" type="radio"
+                            class="bx--radio-button" value="B1.2x4" checked=""><label for="B1.2x4"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.2x4</td>
+                <td>2</td>
+                <td>4 GB</td>
+                <td>US$&nbsp;0,104</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.2x8" id="B1.2x8" type="radio"
+                            class="bx--radio-button" value="B1.2x8"><label for="B1.2x8"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.2x8</td>
+                <td>2</td>
+                <td>8 GB</td>
+                <td>US$&nbsp;0,126</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.4x8" id="B1.4x8" type="radio"
+                            class="bx--radio-button" value="B1.4x8"><label for="B1.4x8"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.4x8</td>
+                <td>4</td>
+                <td>8 GB</td>
+                <td>US$&nbsp;0,208</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.4x16" id="B1.4x16" type="radio"
+                            class="bx--radio-button" value="B1.4x16"><label for="B1.4x16"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.4x16</td>
+                <td>4</td>
+                <td>16 GB</td>
+                <td>US$&nbsp;0,251</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.8x16" id="B1.8x16" type="radio"
+                            class="bx--radio-button" value="B1.8x16"><label for="B1.8x16"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.8x16</td>
+                <td>8</td>
+                <td>16 GB</td>
+                <td>US$&nbsp;0,416</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.8x32" id="B1.8x32" type="radio"
+                            class="bx--radio-button" value="B1.8x32"><label for="B1.8x32"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.8x32</td>
+                <td>8</td>
+                <td>32 GB</td>
+                <td>US$&nbsp;0,503</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.16x32" id="B1.16x32" type="radio"
+                            class="bx--radio-button" value="B1.16x32"><label for="B1.16x32"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.16x32</td>
+                <td>16</td>
+                <td>32 GB</td>
+                <td>US$&nbsp;0,832</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.16x64" id="B1.16x64" type="radio"
+                            class="bx--radio-button" value="B1.16x64"><label for="B1.16x64"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.16x64</td>
+                <td>16</td>
+                <td>64 GB</td>
+                <td>US$&nbsp;1,005</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.32x64" id="B1.32x64" type="radio"
+                            class="bx--radio-button" value="B1.32x64"><label for="B1.32x64"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.32x64</td>
+                <td>32</td>
+                <td>64 GB</td>
+                <td>US$&nbsp;0,716</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.32x128" id="B1.32x128" type="radio"
+                            class="bx--radio-button" value="B1.32x128"><label for="B1.32x128"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.32x128</td>
+                <td>32</td>
+                <td>128 GB</td>
+                <td>US$&nbsp;1,121</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="B1.48x192" id="B1.48x192" type="radio"
+                            class="bx--radio-button" value="B1.48x192"><label for="B1.48x192"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>B1.48x192</td>
+                <td>48</td>
+                <td>192 GB</td>
+                <td>US$&nbsp;2,654</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="C1.1x1" id="C1.1x1" type="radio"
+                            class="bx--radio-button" value="C1.1x1"><label for="C1.1x1"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>C1.1x1</td>
+                <td>1</td>
+                <td>1 GB</td>
+                <td>US$&nbsp;0,046</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="C1.2x2" id="C1.2x2" type="radio"
+                            class="bx--radio-button" value="C1.2x2"><label for="C1.2x2"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>C1.2x2</td>
+                <td>2</td>
+                <td>2 GB</td>
+                <td>US$&nbsp;0,090</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="C1.4x4" id="C1.4x4" type="radio"
+                            class="bx--radio-button" value="C1.4x4"><label for="C1.4x4"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>C1.4x4</td>
+                <td>4</td>
+                <td>4 GB</td>
+                <td>US$&nbsp;0,180</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="C1.8x8" id="C1.8x8" type="radio"
+                            class="bx--radio-button" value="C1.8x8"><label for="C1.8x8"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>C1.8x8</td>
+                <td>8</td>
+                <td>8 GB</td>
+                <td>US$&nbsp;0,355</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="C1.16x16" id="C1.16x16" type="radio"
+                            class="bx--radio-button" value="C1.16x16"><label for="C1.16x16"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>C1.16x16</td>
+                <td>16</td>
+                <td>16 GB</td>
+                <td>US$&nbsp;0,687</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="C1.32x32" id="C1.32x32" type="radio"
+                            class="bx--radio-button" value="C1.32x32"><label for="C1.32x32"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>C1.32x32</td>
+                <td>32</td>
+                <td>32 GB</td>
+                <td>US$&nbsp;0,427</td>
+            </tr>
+
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="M1.1x8" id="M1.1x8" type="radio"
+                            class="bx--radio-button" value="M1.1x8"><label for="M1.1x8"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>M1.1x8</td>
+                <td>1</td>
+                <td>8 GB</td>
+                <td>US$&nbsp;0,084</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="M1.2x16" id="M1.2x16" type="radio"
+                            class="bx--radio-button" value="M1.2x16"><label for="M1.2x16"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>M1.2x16</td>
+                <td>2</td>
+                <td>16 GB</td>
+                <td>US$&nbsp;0,169</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="M1.4x32" id="M1.4x32" type="radio"
+                            class="bx--radio-button" value="M1.4x32"><label for="M1.4x32"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>M1.4x32</td>
+                <td>4</td>
+                <td>32 GB</td>
+                <td>US$&nbsp;0,338</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="M1.8x64" id="M1.8x64" type="radio"
+                            class="bx--radio-button" value="M1.8x64"><label for="M1.8x64"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>M1.8x64</td>
+                <td>8</td>
+                <td>64 GB</td>
+                <td>US$&nbsp;0,654</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="M1.16x128" id="M1.16x128" type="radio"
+                            class="bx--radio-button" value="M1.16x128"><label for="M1.16x128"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>M1.16x128</td>
+                <td>16</td>
+                <td>128 GB</td>
+                <td>US$&nbsp;1,353</td>
+            </tr>
+            <tr class="flavor-table__row">
+                <td class="flavor-table__input-column">
+                    <div class="radioButtonWrapper"><input name="M1.30x240" id="M1.30x240" type="radio"
+                            class="bx--radio-button" value="M1.30x240"><label for="M1.30x240"
+                            class="bx--radio-button__label"><span class="bx--radio-button__appearance"></span></label>
+                    </div>
+                </td>
+                <td>M1.30x240</td>
+                <td>30</td>
+                <td>240 GB</td>
+                <td>US$&nbsp;2,340</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>

@@ -1,0 +1,850 @@
+[
+    {
+       "__EMPTY":"Recurso",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cobrança",
+       "__EMPTY_1":"On Demand",
+       "__EMPTY_2":"12 Meses",
+       "__EMPTY_3":"24 Meses",
+       "__EMPTY_4":"36 Meses"
+    },
+    {
+       "__EMPTY":"T1-1vCPU-1GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0.08956,
+       "__EMPTY_2":0.04846,
+       "__EMPTY_3":0.04499,
+       "__EMPTY_4":0.04151
+    },
+    {
+       "__EMPTY":"T1-2vCPU-2GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0.17912,
+       "__EMPTY_2":0.09692,
+       "__EMPTY_3":0.08998,
+       "__EMPTY_4":0.08302
+    },
+    {
+       "__EMPTY":"C1-1vCPU-2GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0.23622,
+       "__EMPTY_2":0.12587,
+       "__EMPTY_3":0.10449,
+       "__EMPTY_4":0.0831
+    },
+    {
+       "__EMPTY":"C1-2vCPU-4GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0.5677,
+       "__EMPTY_2":0.31405492183561645,
+       "__EMPTY_3":0.2718742059863014,
+       "__EMPTY_4":0.22969349013698628
+    },
+    {
+       "__EMPTY":"C1-4vCPU--8GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":1.1354,
+       "__EMPTY_2":0.6281098436712329,
+       "__EMPTY_3":0.5437484119726028,
+       "__EMPTY_4":0.45938698027397257
+    },
+    {
+       "__EMPTY":"C1-8vCPU-16GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":2.2708,
+       "__EMPTY_2":1.2562196873424658,
+       "__EMPTY_3":1.0874968239452056,
+       "__EMPTY_4":0.9187739605479451
+    },
+    {
+       "__EMPTY":"C1-16vCPU-32GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":4.5416,
+       "__EMPTY_2":2.5124393746849316,
+       "__EMPTY_3":2.1749936478904113,
+       "__EMPTY_4":1.8375479210958903
+    },
+    {
+       "__EMPTY":"C1-24vCPU-48GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":6.8124,
+       "__EMPTY_2":3.7686590620273974,
+       "__EMPTY_3":3.262490471835617,
+       "__EMPTY_4":2.7563218816438355
+    },
+    {
+       "__EMPTY":"C1-32vCPU-64GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":9.0832,
+       "__EMPTY_2":5.024878749369863,
+       "__EMPTY_3":4.3499872957808225,
+       "__EMPTY_4":3.6750958421917805
+    },
+    {
+       "__EMPTY":"G1-1vCPU-4GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0.4109,
+       "__EMPTY_2":0.236155814630137,
+       "__EMPTY_3":0.20438271920547946,
+       "__EMPTY_4":0.1726096237808219
+    },
+    {
+       "__EMPTY":"G1-2vCPU-8GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0.8218,
+       "__EMPTY_2":0.472311629260274,
+       "__EMPTY_3":0.4087654384109589,
+       "__EMPTY_4":0.3452192475616438
+    },
+    {
+       "__EMPTY":"G1-4vCPU-16GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":1.64548,
+       "__EMPTY_2":0.946355910739726,
+       "__EMPTY_3":0.8192752361506849,
+       "__EMPTY_4":0.6921945615616438
+    },
+    {
+       "__EMPTY":"G1-8vCPU-32GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":3.28926,
+       "__EMPTY_2":1.8909791692602738,
+       "__EMPTY_3":1.636045150849315,
+       "__EMPTY_4":1.381111132438356
+    },
+    {
+       "__EMPTY":"G1-16vCPU-64GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":6.57852,
+       "__EMPTY_2":3.7819583385205484,
+       "__EMPTY_3":3.272090301698631,
+       "__EMPTY_4":2.7622222648767125
+    },
+    {
+       "__EMPTY":"G1-24vCPU-96GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":9.86778,
+       "__EMPTY_2":5.672937507780823,
+       "__EMPTY_3":4.908135452547946,
+       "__EMPTY_4":4.143333397315069
+    },
+    {
+       "__EMPTY":"G1-32vCPU-128GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":13.15704,
+       "__EMPTY_2":7.563916677041097,
+       "__EMPTY_3":6.544180603397262,
+       "__EMPTY_4":5.524444529753425
+    },
+    {
+       "__EMPTY":"M1-1vCPU-8GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0.65744,
+       "__EMPTY_2":0.3778493034082192,
+       "__EMPTY_3":0.32701235072876716,
+       "__EMPTY_4":0.27617539804931507
+    },
+    {
+       "__EMPTY":"M1-2vCPU-16GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":1.3163840000000002,
+       "__EMPTY_2":0.7570847285917809,
+       "__EMPTY_3":0.655420188920548,
+       "__EMPTY_4":0.5537556492493151
+    },
+    {
+       "__EMPTY":"M1-4vCPU-32GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":2.6314080000000004,
+       "__EMPTY_2":1.5127833354082192,
+       "__EMPTY_3":1.308836120679452,
+       "__EMPTY_4":1.1048889059506848
+    },
+    {
+       "__EMPTY":"M1-8vCPU-64GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":5.262816000000001,
+       "__EMPTY_2":3.025566670816439,
+       "__EMPTY_3":2.617672241358905,
+       "__EMPTY_4":2.20977781190137
+    },
+    {
+       "__EMPTY":"M1-16vCPU-128GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":10.525632000000002,
+       "__EMPTY_2":6.051133341632878,
+       "__EMPTY_3":5.23534448271781,
+       "__EMPTY_4":4.41955562380274
+    },
+    {
+       "__EMPTY":"M1-24vCPU-192GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":15.788448000000002,
+       "__EMPTY_2":9.076700012449317,
+       "__EMPTY_3":7.853016724076715,
+       "__EMPTY_4":6.62933343570411
+    },
+    {
+       "__EMPTY":"M1-32vCPU-256GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":21.051264000000003,
+       "__EMPTY_2":12.102266683265755,
+       "__EMPTY_3":10.47068896543562,
+       "__EMPTY_4":8.83911124760548
+    },
+    {
+       "__EMPTY":"Armazenamento Storage Bloco SSD",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":1.3701636386549998,
+       "__EMPTY_2":1.2331472747894998,
+       "__EMPTY_3":1.16463909285675,
+       "__EMPTY_4":1.096130910924
+    },
+    {
+       "__EMPTY":"Armazenamento Storage Bloco SSD - SnapShot",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":1.3701636386549998,
+       "__EMPTY_2":1.2331472747894998,
+       "__EMPTY_3":1.16463909285675,
+       "__EMPTY_4":1.096130910924
+    },
+    {
+       "__EMPTY":"Armazenamento Storage Bloco Magnetico",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":0.0005275516258561644,
+       "__EMPTY_2":0.00047479646327054794,
+       "__EMPTY_3":0.0004484188819777397,
+       "__EMPTY_4":0.00042204130068493155
+    },
+    {
+       "__EMPTY":"Armazenamento Storage Bloco Magnetico - Snapshot",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":0.0005275516258561644,
+       "__EMPTY_2":0.00047479646327054794,
+       "__EMPTY_3":0.0004484188819777397,
+       "__EMPTY_4":0.00042204130068493155
+    },
+    {
+       "__EMPTY":"Armazenamento Network Storage",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":0.0013416347589041094,
+       "__EMPTY_2":0.0012074712830136983,
+       "__EMPTY_3":0.0011403895450684928,
+       "__EMPTY_4":0.0010733078071232876
+    },
+    {
+       "__EMPTY":"IP Flutuante",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Qtd/Hora",
+       "__EMPTY_1":0.0491690798,
+       "__EMPTY_2":0.044252171820000005,
+       "__EMPTY_3":0.04179371783000001,
+       "__EMPTY_4":0.03933526384
+    },
+    {
+       "__EMPTY":"Tráfego de Saída Internet (Download)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":0.23,
+       "__EMPTY_2":0.207,
+       "__EMPTY_3":0.1955,
+       "__EMPTY_4":0.18400000000000002
+    },
+    {
+       "__EMPTY":"Tráfego de Saída Internet Cloud Storage(Download)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":0.23,
+       "__EMPTY_2":0.207,
+       "__EMPTY_3":0.1955,
+       "__EMPTY_4":0.18400000000000002
+    },
+    {
+       "__EMPTY":"Tráfego de Entrada Internet (Upload)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":0,
+       "__EMPTY_2":0,
+       "__EMPTY_3":0,
+       "__EMPTY_4":0
+    },
+    {
+       "__EMPTY":"Tráfego Intra-Regiões",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":0.5999425380000001,
+       "__EMPTY_2":0.5399482842000001,
+       "__EMPTY_3":0.5099511573000001,
+       "__EMPTY_4":0.4799540304
+    },
+    {
+       "__EMPTY":"Tráfego para Outros Serviços",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":0.017092380000000004,
+       "__EMPTY_2":0.015383142000000004,
+       "__EMPTY_3":0.014528523000000003,
+       "__EMPTY_4":0.013673904000000004
+    },
+    {
+       "__EMPTY":"Tráfego para CDN Embratel",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":0.5144806379999999,
+       "__EMPTY_2":0.46303257419999994,
+       "__EMPTY_3":0.43730854229999994,
+       "__EMPTY_4":0.41158451039999994
+    },
+    {
+       "__EMPTY":"Número de Balanceadores de Carga",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Qtd/Hora",
+       "__EMPTY_1":0.165796086,
+       "__EMPTY_2":0.14921647740000002,
+       "__EMPTY_3":0.1409266731,
+       "__EMPTY_4":0.1326368688
+    },
+    {
+       "__EMPTY":"Tráfego dos Balanceadores da Carga",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":0.047858664,
+       "__EMPTY_2":0.0430727976,
+       "__EMPTY_3":0.04067986440000001,
+       "__EMPTY_4":0.038286931200000006
+    },
+    {
+       "__EMPTY":"Armazenamento Cloud Storage",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":0.0002531077093150685,
+       "__EMPTY_2":0.00022779693838356166,
+       "__EMPTY_3":0.00021514155291780824,
+       "__EMPTY_4":0.0002024861674520548
+    },
+    {
+       "__EMPTY":"Requisições Cloud Storage Tipo GET",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 10.000 requisições",
+       "__EMPTY_1":0.21707322600000004,
+       "__EMPTY_2":0.19536590340000004,
+       "__EMPTY_3":0.18451224210000003,
+       "__EMPTY_4":0.17365858080000005
+    },
+    {
+       "__EMPTY":"Requisições Cloud Storage Outros",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 1.000 requisições",
+       "__EMPTY_1":0.025980417600000007,
+       "__EMPTY_2":0.023382375840000004,
+       "__EMPTY_3":0.022083354960000006,
+       "__EMPTY_4":0.020784334080000005
+    },
+    {
+       "__EMPTY":"CentOS",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0,
+       "__EMPTY_2":0,
+       "__EMPTY_3":0,
+       "__EMPTY_4":0
+    },
+    {
+       "__EMPTY":"Debian",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0,
+       "__EMPTY_2":0,
+       "__EMPTY_3":0,
+       "__EMPTY_4":0
+    },
+    {
+       "__EMPTY":"Ubuntu",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0,
+       "__EMPTY_2":0,
+       "__EMPTY_3":0,
+       "__EMPTY_4":0
+    },
+    {
+       "__EMPTY":"Red Hat Enterprise Linux (<= 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0.30766284,
+       "__EMPTY_2":0.276896556,
+       "__EMPTY_3":0.26151341400000006,
+       "__EMPTY_4":0.246130272
+    },
+    {
+       "__EMPTY":"Red Hat Enterprise Linux (> 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0.6666028200000002,
+       "__EMPTY_2":0.5999425380000001,
+       "__EMPTY_3":0.5666123970000001,
+       "__EMPTY_4":0.5332822560000001
+    },
+    {
+       "__EMPTY":"Windows Server (<= 1vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0.0724716912,
+       "__EMPTY_2":0.06522452207999999,
+       "__EMPTY_3":0.06160093752,
+       "__EMPTY_4":0.05797735295999999
+    },
+    {
+       "__EMPTY":"Windows Server (> 1vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 2vCPUs/Hora",
+       "__EMPTY_1":0.451238832,
+       "__EMPTY_2":0.40611494880000004,
+       "__EMPTY_3":0.3835530072,
+       "__EMPTY_4":0.36099106560000005
+    },
+    {
+       "__EMPTY":"SQL Server Web (<= 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Quantidade/Hora",
+       "__EMPTY_1":0.278605794,
+       "__EMPTY_2":0.25074521460000004,
+       "__EMPTY_3":0.2368149249,
+       "__EMPTY_4":0.22288463520000001
+    },
+    {
+       "__EMPTY":"SQL Server Web (> 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 4vCPUs/Hora",
+       "__EMPTY_1":0.381160074,
+       "__EMPTY_2":0.34304406660000003,
+       "__EMPTY_3":0.3239860629,
+       "__EMPTY_4":0.30492805920000005
+    },
+    {
+       "__EMPTY":"SQL Server Standard (<= 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Quantidade/Hora",
+       "__EMPTY_1":2.7689655600000003,
+       "__EMPTY_2":2.492069004,
+       "__EMPTY_3":2.3536207260000004,
+       "__EMPTY_4":2.215172448
+    },
+    {
+       "__EMPTY":"SQL Server Standard (> 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 4vCPUs/Hora",
+       "__EMPTY_1":2.9057046,
+       "__EMPTY_2":2.6151341400000003,
+       "__EMPTY_3":2.46984891,
+       "__EMPTY_4":2.32456368
+    },
+    {
+       "__EMPTY":"SQL Server Enterprise",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 4vCPUs/Hora",
+       "__EMPTY_1":8.135972879999999,
+       "__EMPTY_2":7.322375591999999,
+       "__EMPTY_3":6.915576948,
+       "__EMPTY_4":6.508778304
+    },
+    {
+       "__EMPTY":"Recurso (TABELA ESTIMADA MÊS)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cobrança",
+       "__EMPTY_1":" On Demand / MÊS",
+       "__EMPTY_2":"12 Meses / MÊS",
+       "__EMPTY_3":"24 Meses / MÊS",
+       "__EMPTY_4":"36 Meses / MÊS"
+    },
+    {
+       "__EMPTY":"T1-1vCPU-1GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":65.3788,
+       "__EMPTY_2":35.375800000000005,
+       "__EMPTY_3":32.8427,
+       "__EMPTY_4":30.3023
+    },
+    {
+       "__EMPTY":"T1-2vCPU-2GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":130.7576,
+       "__EMPTY_2":70.75160000000001,
+       "__EMPTY_3":65.6854,
+       "__EMPTY_4":60.6046
+    },
+    {
+       "__EMPTY":"C1-1vCPU-2GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":172.44060000000002,
+       "__EMPTY_2":91.88510000000001,
+       "__EMPTY_3":76.2777,
+       "__EMPTY_4":60.663
+    },
+    {
+       "__EMPTY":"C1-2vCPU-4GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":414.421,
+       "__EMPTY_2":229.26009294000002,
+       "__EMPTY_3":198.46817037000002,
+       "__EMPTY_4":167.6762478
+    },
+    {
+       "__EMPTY":"C1-4vCPU--8GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":828.842,
+       "__EMPTY_2":458.52018588000004,
+       "__EMPTY_3":396.93634074000005,
+       "__EMPTY_4":335.3524956
+    },
+    {
+       "__EMPTY":"C1-8vCPU-16GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":1657.684,
+       "__EMPTY_2":917.0403717600001,
+       "__EMPTY_3":793.8726814800001,
+       "__EMPTY_4":670.7049912
+    },
+    {
+       "__EMPTY":"C1-16vCPU-32GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":3315.368,
+       "__EMPTY_2":1834.0807435200002,
+       "__EMPTY_3":1587.7453629600002,
+       "__EMPTY_4":1341.4099824
+    },
+    {
+       "__EMPTY":"C1-24vCPU-48GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":4973.052000000001,
+       "__EMPTY_2":2751.12111528,
+       "__EMPTY_3":2381.61804444,
+       "__EMPTY_4":2012.1149736
+    },
+    {
+       "__EMPTY":"C1-32vCPU-64GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":6630.736,
+       "__EMPTY_2":3668.1614870400003,
+       "__EMPTY_3":3175.4907259200004,
+       "__EMPTY_4":2682.8199648
+    },
+    {
+       "__EMPTY":"G1-1vCPU-4GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":299.957,
+       "__EMPTY_2":172.39374468,
+       "__EMPTY_3":149.19938502,
+       "__EMPTY_4":126.00502535999999
+    },
+    {
+       "__EMPTY":"G1-2vCPU-8GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":599.914,
+       "__EMPTY_2":344.78748936,
+       "__EMPTY_3":298.39877004,
+       "__EMPTY_4":252.01005071999998
+    },
+    {
+       "__EMPTY":"G1-4vCPU-16GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":1201.2004,
+       "__EMPTY_2":690.83981484,
+       "__EMPTY_3":598.07092239,
+       "__EMPTY_4":505.30202994
+    },
+    {
+       "__EMPTY":"G1-8vCPU-32GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":2401.1598,
+       "__EMPTY_2":1380.41479356,
+       "__EMPTY_3":1194.31296012,
+       "__EMPTY_4":1008.2111266799999
+    },
+    {
+       "__EMPTY":"G1-16vCPU-64GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":4802.3196,
+       "__EMPTY_2":2760.8295871200003,
+       "__EMPTY_3":2388.6259202400006,
+       "__EMPTY_4":2016.4222533600002
+    },
+    {
+       "__EMPTY":"G1-24vCPU-96GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":7203.4794,
+       "__EMPTY_2":4141.244380680001,
+       "__EMPTY_3":3582.938880360001,
+       "__EMPTY_4":3024.6333800400002
+    },
+    {
+       "__EMPTY":"G1-32vCPU-128GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":9604.6392,
+       "__EMPTY_2":5521.6591742400005,
+       "__EMPTY_3":4777.251840480001,
+       "__EMPTY_4":4032.8445067200005
+    },
+    {
+       "__EMPTY":"M1-1vCPU-8GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":479.9312,
+       "__EMPTY_2":275.829991488,
+       "__EMPTY_3":238.71901603200004,
+       "__EMPTY_4":201.608040576
+    },
+    {
+       "__EMPTY":"M1-2vCPU-16GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":960.9603200000001,
+       "__EMPTY_2":552.671851872,
+       "__EMPTY_3":478.45673791200005,
+       "__EMPTY_4":404.241623952
+    },
+    {
+       "__EMPTY":"M1-4vCPU-32GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":1920.9278400000003,
+       "__EMPTY_2":1104.331834848,
+       "__EMPTY_3":955.450368096,
+       "__EMPTY_4":806.5689013439999
+    },
+    {
+       "__EMPTY":"M1-8vCPU-64GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":3841.8556800000006,
+       "__EMPTY_2":2208.6636696960004,
+       "__EMPTY_3":1910.9007361920007,
+       "__EMPTY_4":1613.1378026880002
+    },
+    {
+       "__EMPTY":"M1-16vCPU-128GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":7683.711360000001,
+       "__EMPTY_2":4417.327339392001,
+       "__EMPTY_3":3821.8014723840015,
+       "__EMPTY_4":3226.2756053760004
+    },
+    {
+       "__EMPTY":"M1-24vCPU-192GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":11525.567040000002,
+       "__EMPTY_2":6625.991009088001,
+       "__EMPTY_3":5732.702208576002,
+       "__EMPTY_4":4839.413408064001
+    },
+    {
+       "__EMPTY":"M1-32vCPU-256GB-RAM",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":15367.422720000002,
+       "__EMPTY_2":8834.654678784002,
+       "__EMPTY_3":7643.602944768003,
+       "__EMPTY_4":6452.551210752001
+    },
+    {
+       "__EMPTY":"Armazenamento Storage Bloco SSD",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":0.001876936491308219,
+       "__EMPTY_2":0.0016892428421773971,
+       "__EMPTY_3":0.0015953960176119863,
+       "__EMPTY_4":0.0015015491930465755
+    },
+    {
+       "__EMPTY":"Armazenamento Storage Bloco SSD - SnapShot",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":0.001876936491308219,
+       "__EMPTY_2":0.0016892428421773971,
+       "__EMPTY_3":0.0015953960176119863,
+       "__EMPTY_4":0.0015015491930465755
+    },
+    {
+       "__EMPTY":"Armazenamento Storage Bloco Magnetico",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":0.38511268687500005,
+       "__EMPTY_2":0.3466014181875,
+       "__EMPTY_3":0.32734578384375,
+       "__EMPTY_4":0.3080901495
+    },
+    {
+       "__EMPTY":"Armazenamento Storage Bloco Magnetico - Snapshot",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":0.38511268687500005,
+       "__EMPTY_2":0.3466014181875,
+       "__EMPTY_3":0.32734578384375,
+       "__EMPTY_4":0.3080901495
+    },
+    {
+       "__EMPTY":"Armazenamento Network Storage",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":0.9793933739999999,
+       "__EMPTY_2":0.8814540365999998,
+       "__EMPTY_3":0.8324843678999998,
+       "__EMPTY_4":0.7835146991999999
+    },
+    {
+       "__EMPTY":"IP Flutuante",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Qtd/Hora",
+       "__EMPTY_1":35.893428254,
+       "__EMPTY_2":32.304085428600004,
+       "__EMPTY_3":30.509414015900006,
+       "__EMPTY_4":28.7147426032
+    },
+    {
+       "__EMPTY":"Tráfego de Saída Internet (Download)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":"-",
+       "__EMPTY_2":"-",
+       "__EMPTY_3":"-",
+       "__EMPTY_4":"-"
+    },
+    {
+       "__EMPTY":"Tráfego de Saída Internet Cloud Storage(Download)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":"-",
+       "__EMPTY_2":"-",
+       "__EMPTY_3":"-",
+       "__EMPTY_4":"-"
+    },
+    {
+       "__EMPTY":"Tráfego de Entrada Internet (Upload)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":"-",
+       "__EMPTY_2":"-",
+       "__EMPTY_3":"-",
+       "__EMPTY_4":"-"
+    },
+    {
+       "__EMPTY":"Tráfego Intra-Regiões",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":"-",
+       "__EMPTY_2":"-",
+       "__EMPTY_3":"-",
+       "__EMPTY_4":"-"
+    },
+    {
+       "__EMPTY":"Tráfego para Outros Serviços",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":"-",
+       "__EMPTY_2":"-",
+       "__EMPTY_3":"-",
+       "__EMPTY_4":"-"
+    },
+    {
+       "__EMPTY":"Tráfego para CDN Embratel",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":"-",
+       "__EMPTY_2":"-",
+       "__EMPTY_3":"-",
+       "__EMPTY_4":"-"
+    },
+    {
+       "__EMPTY":"Número de Balanceadores de Carga",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Qtd/Hora",
+       "__EMPTY_1":121.03114278000001,
+       "__EMPTY_2":108.92802850200002,
+       "__EMPTY_3":102.87647136300001,
+       "__EMPTY_4":96.824914224
+    },
+    {
+       "__EMPTY":"Tráfego dos Balanceadores da Carga",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB trafegado",
+       "__EMPTY_1":"-",
+       "__EMPTY_2":"-",
+       "__EMPTY_3":"-",
+       "__EMPTY_4":"-"
+    },
+    {
+       "__EMPTY":"Armazenamento Cloud Storage",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"GB/Hora",
+       "__EMPTY_1":0.18476862780000003,
+       "__EMPTY_2":0.16629176502,
+       "__EMPTY_3":0.15705333363,
+       "__EMPTY_4":0.14781490224000002
+    },
+    {
+       "__EMPTY":"Requisições Cloud Storage Tipo GET",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 10.000 requisições",
+       "__EMPTY_1":"-",
+       "__EMPTY_2":"-",
+       "__EMPTY_3":"-",
+       "__EMPTY_4":"-"
+    },
+    {
+       "__EMPTY":"Requisições Cloud Storage Outros",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 1.000 requisições",
+       "__EMPTY_1":"-",
+       "__EMPTY_2":"-",
+       "__EMPTY_3":"-",
+       "__EMPTY_4":"-"
+    },
+    {
+       "__EMPTY":"CentOS",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0,
+       "__EMPTY_2":0,
+       "__EMPTY_3":0,
+       "__EMPTY_4":0
+    },
+    {
+       "__EMPTY":"Debian",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0,
+       "__EMPTY_2":0,
+       "__EMPTY_3":0,
+       "__EMPTY_4":0
+    },
+    {
+       "__EMPTY":"Ubuntu",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":0,
+       "__EMPTY_2":0,
+       "__EMPTY_3":0,
+       "__EMPTY_4":0
+    },
+    {
+       "__EMPTY":"Red Hat Enterprise Linux (<= 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":224.5938732,
+       "__EMPTY_2":202.13448588,
+       "__EMPTY_3":190.90479222000005,
+       "__EMPTY_4":179.67509856
+    },
+    {
+       "__EMPTY":"Red Hat Enterprise Linux (> 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":486.6200586000001,
+       "__EMPTY_2":437.9580527400001,
+       "__EMPTY_3":413.6270498100001,
+       "__EMPTY_4":389.29604688000006
+    },
+    {
+       "__EMPTY":"Windows Server (<= 1vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Servidor Ativo/Hora",
+       "__EMPTY_1":52.904334576,
+       "__EMPTY_2":47.61390111839999,
+       "__EMPTY_3":44.9686843896,
+       "__EMPTY_4":42.32346766079999
+    },
+    {
+       "__EMPTY":"Windows Server (> 1vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 2vCPUs/Hora",
+       "__EMPTY_1":329.40434736,
+       "__EMPTY_2":296.46391262400005,
+       "__EMPTY_3":279.993695256,
+       "__EMPTY_4":263.52347788800006
+    },
+    {
+       "__EMPTY":"SQL Server Web (<= 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Quantidade/Hora",
+       "__EMPTY_1":203.38222962,
+       "__EMPTY_2":183.04400665800003,
+       "__EMPTY_3":172.874895177,
+       "__EMPTY_4":162.705783696
+    },
+    {
+       "__EMPTY":"SQL Server Web (> 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 4vCPUs/Hora",
+       "__EMPTY_1":278.24685402,
+       "__EMPTY_2":250.42216861800003,
+       "__EMPTY_3":236.509825917,
+       "__EMPTY_4":222.59748321600003
+    },
+    {
+       "__EMPTY":"SQL Server Standard (<= 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Quantidade/Hora",
+       "__EMPTY_1":2021.3448588,
+       "__EMPTY_2":1819.21037292,
+       "__EMPTY_3":1718.1431299800004,
+       "__EMPTY_4":1617.07588704
+    },
+    {
+       "__EMPTY":"SQL Server Standard (> 4vCPU)",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 4vCPUs/Hora",
+       "__EMPTY_1":2121.164358,
+       "__EMPTY_2":1909.0479222000001,
+       "__EMPTY_3":1802.9897043,
+       "__EMPTY_4":1696.9314863999998
+    },
+    {
+       "__EMPTY":"SQL Server Enterprise",
+       "Tarifas Connect Cloud - V1.1 de 16/12/2018":"Cada 4vCPUs/Hora",
+       "__EMPTY_1":5939.260202399999,
+       "__EMPTY_2":5345.33418216,
+       "__EMPTY_3":5048.37117204,
+       "__EMPTY_4":4751.40816192
+    }
+ ]
